@@ -1,6 +1,5 @@
-
-
 ![TheCocktailDB](https://www.thecocktaildb.com/images/logo.png)
+
 The cocktail DB is an open, crowd-sourced database of drinks and cocktails from around the world.
 
 This is a React web application that displays a list of cocktails and allows you to search for cocktails by name using this API. It also provides detailed information about each cocktail when you click on its photo.
