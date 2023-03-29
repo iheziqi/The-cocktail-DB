@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ad65e1f-8bb1-4470-8753-10cfdcff0420/deploy-status)](https://app.netlify.com/sites/cocktailmixr/deploys)
 ![TheCocktailDB](https://www.thecocktaildb.com/images/logo.png)
 
 The cocktail DB is an open, crowd-sourced database of drinks and cocktails from around the world.
